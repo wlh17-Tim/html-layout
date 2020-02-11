@@ -1,0 +1,29 @@
+header {
+    height: 100px;
+    background-color: grey;
+}
+
+.main {
+    display: inline;
+    height: 400px;
+}
+
+.left {
+    float: left;
+    width: 80px;
+    height: 600px;
+    background-color: lightgrey;
+}
+
+.right {
+    float: right;
+    width: 80px;
+    height: 600px;
+    background-color: lightgrey;
+}
+
+footer {
+    height: 50px;
+    background-color: black;
+    margin-top: 550px;
+}
